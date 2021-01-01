@@ -1,0 +1,9 @@
+Package: com.nahtedetihw.blursplash
+Name: BlurSplash
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A minimal DopeConvos Theme with an awesome wallpaper!
+Author: nahtedetihw <ethanwhited2208@gmail.com>
+Section: Themes
+Maintainer: nahtedetihw <ethanwhited2208@gmail.com>
+
