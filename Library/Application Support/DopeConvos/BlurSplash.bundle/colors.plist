@@ -3,25 +3,41 @@
 <plist version="1.0">
 <dict>
 	<key>ackGlpyhColorKey</key>
-	<string>#000000:1.00</string>
+	<string>#B08CD6:1.00</string>
 	<key>ackGlpyhColorKeyLight</key>
-	<string>#FFFFFF:1.00</string>
+	<string>#C583D4:1.00</string>
+	<key>acknowledgmentPillBubbleColorKey</key>
+	<string>#6C33D5:1.00</string>
+	<key>acknowledgmentPillBubbleColorKeyLight</key>
+	<string>#683B84:1.00</string>
 	<key>backgroundColorKey</key>
-	<string>#000000:1.00</string>
+	<string>#6C33D5:1.00</string>
 	<key>backgroundColorKeyLight</key>
-	<string>#535353:1.00</string>
+	<string>#C583D4:1.00</string>
 	<key>bottomIMBubbleColor</key>
-	<string>#939393:1.00</string>
+	<string>#B08CD6:1.00</string>
 	<key>bottomIMBubbleColorLight</key>
-	<string>#626262:1.00</string>
+	<string>#B08CD6:1.00</string>
 	<key>bottomSMSBubbleColor</key>
-	<string>#949494:1.00</string>
+	<string>#B08CD6:1.00</string>
 	<key>bottomSMSBubbleColorLight</key>
-	<string>#626262:1.00</string>
+	<string>#B08CD6:1.00</string>
+	<key>chevronColorKey</key>
+	<string>#B08CD6:1.00</string>
+	<key>chevronColorKeyLight</key>
+	<string>#C583D4:1.00</string>
 	<key>detailColorKey</key>
-	<string>#FFFFFF:1.00</string>
+	<string>#6C51BE:1.00</string>
 	<key>detailColorKeyLight</key>
-	<string>#000000:1.00</string>
+	<string>#683B84:1.00</string>
+	<key>entryViewBackgroundColorKey</key>
+	<string>#6C33D5:1.00</string>
+	<key>entryViewBackgroundColorKeyLight</key>
+	<string>#C583D4:1.00</string>
+	<key>entryViewPlaceholderTextColorKey</key>
+	<string>#B08CD6:1.00</string>
+	<key>entryViewPlaceholderTextColorKeyLight</key>
+	<string>#683B84:1.00</string>
 	<key>grayUnfilledBalloonColorKey</key>
 	<string>#4A4A4A:1.00</string>
 	<key>imSendButtonColor</key>
@@ -31,21 +47,39 @@
 	<key>imTextColor</key>
 	<string>#000000:1.00</string>
 	<key>imTextColorLight</key>
-	<string>#FFFFFF:1.00</string>
+	<string>#000000:1.00</string>
 	<key>incomingBottomBubbleColor</key>
-	<string>#232224:1.00</string>
+	<string>#6C33D5:1.00</string>
 	<key>incomingBottomBubbleColorLight</key>
-	<string>#B6B6B6:1.00</string>
+	<string>#020264:1.00</string>
 	<key>incomingTextColor</key>
 	<string>#FFFFFF:1.00</string>
 	<key>incomingTextColorLight</key>
-	<string>#000000:1.00</string>
+	<string>#FFFFFF:1.00</string>
 	<key>incomingTopBubbleColor</key>
-	<string>#000000:1.00</string>
+	<string>#C583D4:1.00</string>
 	<key>incomingTopBubbleColorLight</key>
-	<string>#69696A:1.00</string>
+	<string>#7571B0:1.00</string>
+	<key>largeTitleColorKey</key>
+	<string>#6C51BE:1.00</string>
 	<key>largeTitleColorKeyLight</key>
-	<string>#000000:1.00</string>
+	<string>#683B84:1.00</string>
+	<key>newComposeHeaderColorKey</key>
+	<string>#6C51BE:0.58</string>
+	<key>newComposeHeaderColorKeyLight</key>
+	<string>#683B84:0.64</string>
+	<key>previewColorKey</key>
+	<string>#6C51BE:1.00</string>
+	<key>previewColorKeyLight</key>
+	<string>#683B84:1.00</string>
+	<key>selectedCellHighlightColor</key>
+	<string>#6C51BE:1.00</string>
+	<key>selectedCellHighlightColorLight</key>
+	<string>#683B84:1.00</string>
+	<key>senderColorKey</key>
+	<string>#B08CD6:1.00</string>
+	<key>senderColorKeyLight</key>
+	<string>#C583D4:1.00</string>
 	<key>smsSendButtonColor</key>
 	<string>#FFFFFF:1.00</string>
 	<key>smsSendButtonColorLight</key>
@@ -53,19 +87,27 @@
 	<key>smsTextColor</key>
 	<string>#000000:1.00</string>
 	<key>smsTextColorLight</key>
-	<string>#FFFFFF:1.00</string>
-	<key>tintColorKey</key>
-	<string>#CECECE:1.00</string>
-	<key>tintColorKeyLight</key>
 	<string>#000000:1.00</string>
+	<key>tintColorKey</key>
+	<string>#B08CD6:1.00</string>
+	<key>tintColorKeyLight</key>
+	<string>#020264:1.00</string>
 	<key>topIMBubbleColor</key>
-	<string>#FFFFFF:1.00</string>
+	<string>#6C51BE:1.00</string>
 	<key>topIMBubbleColorLight</key>
-	<string>#1C1C1C:1.00</string>
+	<string>#6C33D5:1.00</string>
 	<key>topSMSBubbleColor</key>
-	<string>#FFFFFF:1.00</string>
+	<string>#6C51BE:1.00</string>
 	<key>topSMSBubbleColorLight</key>
-	<string>#1C1C1C:1.00</string>
+	<string>#6C33D5:1.00</string>
+	<key>typingIndicatorColorKey</key>
+	<string>#6C33D5:1.00</string>
+	<key>typingIndicatorColorKeyLight</key>
+	<string>#683B84:1.00</string>
+	<key>typingIndicatorDotsColorKey</key>
+	<string>#B08CD6:1.00</string>
+	<key>typingIndicatorDotsColorKeyLight</key>
+	<string>#C583D4:1.00</string>
 	<key>unfilledIMBalloonColorKey</key>
 	<string>#FFFFFF:1.00</string>
 	<key>unfilledIMBalloonColorKeyLight</key>

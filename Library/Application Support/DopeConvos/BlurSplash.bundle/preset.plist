@@ -5,7 +5,7 @@
 	<key>SelectedSettings</key>
 	<string>GrayScale</string>
 	<key>appearanceMode</key>
-	<string>lightMode</string>
+	<string>darkMode</string>
 	<key>customEntryViewText</key>
 	<string>Dope 🤙🏼</string>
 	<key>customLargeTitle</key>
@@ -47,6 +47,8 @@
 	<key>enableChatDopeBlur</key>
 	<false/>
 	<key>enableChevronColor</key>
+	<true/>
+	<key>enableChevronColorLight</key>
 	<true/>
 	<key>enableConversationBackgroundImage</key>
 	<true/>
@@ -105,6 +107,10 @@
 	<key>enableLargeTitleColor</key>
 	<true/>
 	<key>enableLargeTitleColorLight</key>
+	<true/>
+	<key>enableNavigationBarColor</key>
+	<false/>
+	<key>enableNewComposeHeaderColor</key>
 	<true/>
 	<key>enableNewComposeHeaderColorLight</key>
 	<true/>
@@ -195,7 +201,7 @@
 	<key>removeSharePhotoBanner</key>
 	<true/>
 	<key>selectedBundle</key>
-	<string>Grayscale.bundle</string>
+	<string>BlurSplash.bundle</string>
 	<key>senderTextColor</key>
 	<true/>
 	<key>senderTextColorLight</key>
